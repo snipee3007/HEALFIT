@@ -1,0 +1,23 @@
+body{
+    background-image: url(../images/BackgroundImage.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.NavigationBar{
+    height: 50px;
+    width: 100%;
+}
+
+.NavigationBar > .logo{
+    height: 100%;
+}
+
+.NavigationBar > .logo > .logocontainer{
+    height:100%;
+    
+}
+
+.NavigationBar > .logo > .logocontainer > img{
+    height: 100%;
+}
